@@ -3,6 +3,8 @@
 
 _A lightweight Python script that updates a Posiflex PD-2800/320 VFD display with live 3D printer status from Home Assistant._
 
+![Preview](preview.jpg)
+
 ## 🚀 Features
 - ✅ **Live Print Status** — Displays `"Printing"`, `"Paused"`, `"Standby"`, etc.
 - ✅ **Print Progress Bar** — Dynamic bar graph with percentage.
