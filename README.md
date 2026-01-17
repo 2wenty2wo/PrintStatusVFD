@@ -1,4 +1,12 @@
 # PrintStatusVFD
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub stars](https://img.shields.io/github/stars/2wenty2wo/PrintStatusVFD.svg)](https://github.com/2wenty2wo/PrintStatusVFD/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/2wenty2wo/PrintStatusVFD.svg)](https://github.com/2wenty2wo/PrintStatusVFD/issues)
+[![GitHub forks](https://img.shields.io/github/forks/2wenty2wo/PrintStatusVFD.svg)](https://github.com/2wenty2wo/PrintStatusVFD/network)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/2wenty2wo/PrintStatusVFD/graphs/commit-activity)
+
 ### Monitor your 3D printer's status on a VFD display using Home Assistant and Moonraker
 
 _A lightweight Python script that updates a Posiflex PD-2800/320 VFD display with live 3D printer status from Home Assistant._
